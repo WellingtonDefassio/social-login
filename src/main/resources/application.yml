@@ -1,0 +1,22 @@
+
+
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 888825844876-973ruc965c5js80iqrseo4bm0npni7hl.apps.googleusercontent.com
+            client-secret: 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
+
+#          facebook:
+#            client-id: 902603454134637
+#            client-secret: 211332842441b8d88cf9b59e31d8c91f
+#
+#          github:
+#            client-id:
+#            client-secret:
+server:
+  port: 8880
+
